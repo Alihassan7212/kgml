@@ -1,4 +1,4 @@
-This flowchart visualizes the research plan, outlining the different phases, their respective tasks, and timelines.
+This flowchart visualizes the research plan, outlining the different phases, their respective tasks, and timelines. 
 
 ```mermaid
 graph TD
